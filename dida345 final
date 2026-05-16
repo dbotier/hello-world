@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title> Ultimate Pokemon Team </title>
+
+
+<style>
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  margin: 0;
+  background-color: #f5f5f5;
+  color: #111;
+}
+
+
+/* NAVBAR */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #111;
+}
+
+
+li {
+  float: left;
+}
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 18px;
+  text-decoration: none;
+}
+
+
+li a:hover {
+  background-color: #333;
+}
+
+
+/* MAIN CONTENT */
+.container {
+  width: 900px;
+  margin: auto;
+  background: white;
+  padding: 40px;
+}
+
+
+h1 {
+  font-size: 42px;
+  margin-bottom: 10px;
+}
+
+
+.subtitle {
+  font-style: italic;
+  color: #555;
+  margin-bottom: 30px;
+}
+
+
+img {
+  width: 100%;
+  margin: 20px 0 30px 0;
+}
+
+
+/* ONION STYLE LIST */
+.stat {
+  margin-bottom: 28px;
+}
+
+
+.number {
+  font-weight: bold;
+  font-size: 26px;
+}
+
+
+.description {
+  font-size: 18px;
+}
+
+
+footer {
+  margin-top: 40px;
+  font-size: 14px;
+  color: #777;
+}
+</style>
+</head>
+
+
+<body>
+
+
+
+
+
+<div class="container">
+<body>
+
+
+<div class="container">
+
+
+<h1>The Ultimate Pokemon Team</h1>
+
+<p class="intro">Hello there! Welcome to the world of POKEMON! My name is OAK! People call me the POKEMON PROF!</p>
+<p class="intro">This world is truly a marvel, isn’t it? One filled with vast depth in character design, statistical variance, and charm, is as close to being universally loved as it gets. Our world revolves around Pokemon! </p>
+<p class="intro">My grandson, erm what was his name again? Ahh yes. My grandson Gary talks to me all the time about wandering around the region with high hopes of becoming the ultimate Pokemon trainer, accomplished by becoming champion with the ultimate Pokemon team. He insists on battling the Champion POKEMON PROF. Haha! I don't know how to break it to him that I’m giving him his first Pokemon instead of defeating it. I always tell him there are endless possibilities of a championship worthy team, as any combination of up to 6 Pokemon can theoretically overcome the toughest trainers in the world. I’ve been working with Pokemon before he was even born, but he has a knack for the intricacies of Pokemon. </p>
+<p class="intro">My research has led me to the Pokedex, a hi-tech encyclopedia of all Pokemon data. My grandson would analyze each Pokemon’s hit-points (HP), attack, defense, special attack, special defense, and speed. The statistics were fascinating, but most people treat Pokemon as companions rather than statistical weapons. People become attached to Pokemon, the same way Gary couldn't go 2 minutes away from his Pikachu plushie. Most little kids like Pokemon for their appearance and personality. We swim with water Pokemon and don't question it. They are one with the people. </p>
+<p class="intro">For some people, POKEMON are pets. Myself...I study POKEMON as a profession. Lucky me!</p>
+<p class="intro">But there is another side of Pokemon, the side we watch on TV, (if I can ever figure out how to turn it on, all POKEMON PROF’s have a hard time with that. Haha!), known as competitive Pokemon.</p>
+
+<img src="https://i.ibb.co/DcJsQs4/Screenshot-2026-05-15-at-10-29-21-PM.png" width="1000">
+
+<p class="intro">BATTLES BATTLES BATTLES, OH SO EXCITING!!</p>
+<p class="intro">In the world of Pokemon, once you turn 10 you can become a Pokemon trainer. Step outside mothers home, get your first Pokemon from a super charming kind Professor, and conquer the world! </p>
+<p class="intro">Once you have a Pokemon, you can engage in battles. These can be in the wild against wild Pokemon, or versus other Pokemon trainers and their Pokemon. You can try to battle Pokemon on your own but you may end up like this young man:</p>
+
+<img src="https://i.ibb.co/RGq8MV6k/Screenshot-2026-05-15-at-10-30-24-PM.png" width="1000">
+
+<p class="intro">Every battler has eyes on becoming the champion. Even my grandson, ah what was his name again? He is on his journey as we speak, what a kiddo. He wants to be the best like no one ever was!</p>
+<p class="intro">To become the champion of your region you must understand how Pokemon function to the highest degree. Gut wrenching battles against 8 gym leaders (some of my good friends!) to end up at the elite 4, the final gauntlet of the main story, containing the hardest battles against the strongest Pokemon. Each elite 4 member has a specialty typing (fire, electric, etc.), resembling their personality and style accordingly. The elite 4 is followed up by the champion, a final duel to determine if a new champion is worthy.</p>
+<p class="intro">My grandson always asked about the best Pokemon. What the awesome Pokemon were called and who was the strongest. I would laugh at him. Just kidding Haha! He wouldn't understand, not all Pokemon have been discovered in the slightest, but questions about the best Pokemon team struck my attention.</p>
+<p class="intro">In the name of Poke-science, someone must ask themselves what the best possible solution is for whatever problem they try to solve. A volunteer commonly known as POKEMON PROF has taken part in discovering the best possible teams to face off against each Pokemon generation's premier opponents. </p>
+<p class="intro">To keep this research more aligned with each generation's Pokemon (there are many generations with their own Pokemon and POKEMON PROF, just not as dashing or knowledgeable Haha!), each region's teams can only be constructed with that region's Pokemon. For example, Pikachu can only be used in Kanto/Generation 1’s team. </p>
+<p class="intro">Additionally, legendary Pokemon will not be considered for the teams. We are not able to complete lots of research with them as their existence is based on myths/legends, but hopefully Pallet Town sees some exciting times ahead!</p>
+<p class="intro">Maybe if you become champion you will help your beloved POKEMON PROF? I can't always count on my grandson Gary but I can count on you! What are you blabbering about on how we just met? Here, let's find the ultimate Pokemon team for the elite 4 and champion of my region, Kanto (gen 1).</p>
+
+<p class=”body”><b>ULTIMATE KANTO TEAM</b></p>
+	<p class=”body”>You know kiddo, after a lifetime of studying Pokemon, trainers all over the world would come to me and brag about their Poke-God squad. Claims of an unbeatable team were almost as common as my grandson forgetting to call me each day. Haha! </p>
+	<p class=”body”>Building the ultimate team forces a strong willed trainer to set aside his favoritism and biases. Synergy, speed, power, and matchups are essential and can make or break your team! </p>
+<p class=”body”>I have taken a look at the Pokemon home to Kanto, the original region of the Pokemon world, and have put together some special research! I analyzed the elite 4 of Kanto, consisting of Lorelei the Ice type trainer, Bruno the Fighting type trainer, Agatha the Poison type trainer, Lance the Dragon type trainer, and the formidable champion with a well rounded gauntlet of Pokemon.</p>
+<p class=”body”>Here is what I consider the most formidable 6 Pokemon team across the Kanto region.</p>
+
+<img src="https://i.ibb.co/s98GWsBj/Professor-Oak-s-Ultimate-Kanto-Team.png" width="1000">
+
+<p class=”body”>Alakazam is the key to the greatest Kanto team. Its psychic typing is quite overpowered in Kanto. The Pokemon type chart demonstrates dark types as a counter to psychics, but dark types were only discovered in generation 2, after the Kanto elite 4 had established itself! Haha! Alakazam and his spoons sweep past most of Bruno’s fighting Pokemon. Additionally, Agatha’s ghost Pokemon are all poison types as well, so Alakazam's psychic super-effectiveness paired with its strong 120 speed stat and 500 base (combined) stat total  solidify its place in the team </p>
+<p class=”body”>Arcanine is a great partner to have for any serious trainer. Extremely high base stats of 555, almost as high as the amount of times my grandson forgot to call me! A legend amongst the Pokemon present in Kanto, the fire type Arcanine finds its place in any triumphant team.</p>
+<p class=”body”>Jolteon, the electric type, can blast out 10000-volt lightning bolts. WOWZA! Now pair that with the speed (130) to strike first against nearly all Kanto Pokemon and we have a winner.</p>
+<p class=”body”>Lapras, the dual water-ice type, is a nearly-extinct Pokemon but a gentle soul that can read the minds of people. A great counter for Lance’s dragon types as it deals super effective blows. Lapras is beloved as it ferries Kanto residents across waters, and would also be beloved by a Pokemon champion!</p>
+<p class=”body”>Snorlax usually spends his days by eating, sleeping, and being lazy. However, this absolute tank of a Pokemon is unbeatable on his day. Off the charts levels of health (160HP along with 540 base stats), can sling some crazy damage, and is the best known counter for Alakazam. The normal type of legend. </p>
+<p class=”body”>Last but certainly not least, we have Dragonite! An extremely rare Pokemon more famously known through Pokemon folk-lore as the mysterious, lonely sea guardian, but a noble trainer’s quality allowed us to research this pseudo-legendary Pokemon! With the highest base stat total (600) found in Kanto, along with its striking 134 attack, this dragon-flying sprints to the top of the ultimate Pokemon team! Consider it the ace of the team.</p>
+
+<img src="https://i.ibb.co/wF4Szr98/7-KQs-D-generation-1-pokemon-base-stat-totals.png" width="1000">
+
+<p class=”body”>With the assistance of all the wonderful Professors from Professor Oak’s Laboratory in Pallet Town, our ultimate Kanto team has arrived! How wonderful, maybe once my grandson finds out he will finally call me and enlighten me on his adventures! </p>
+<p class=”body”>WHAAAAT?!?!?! ITS BEEN 2 SECONDS AND G-G-GAAARY STILL HASNT CALLED? HE KNOWS HOW TO TURN ON THE TV!!!!! I know what I must do. As the POKEMON PROF of Kanto, I must expand my outreach. Why shoot for the stars when you can aim for the moon. So many of my colleagues all across other regions with foreign, non-Kanto Pokemon. This land we live on in Kanto is only a region, not a world. Lapras can take people across the waters, travel to other regions, converse with foreign trainers and professors, and explore new terrains! </p>
+<p class=”body”>THATS IT! Our studies must cover the entire Pokemon world, not just Kanto! That's why we call it generation 1! We need to find the best team in history and assemble a team that tops it!</p>
+<p class=”body”>According to widespread Pokemon-folklore, the honor of the best and most difficult team to face in Pokemon history belongs to the beloved Cynthia, the champion of Sinnoh (gen 4).</p>
+
+<img src="https://i.ibb.co/sJbbJhDC/Sinnoh-Pokemon-Champion-Cynthia-s-Squad.png" width="1000">
+
+<img src="https://i.ibb.co/PbdxVVf/ULo-Qx-generation-4-pokemon-base-stat-totals.png" width="1000">
+
+<p class=”body”>Cynthia always starts off with her Spiritomb. This ghost-dark type used to have no type weaknesses until Fairy types were discovered by my good friend Professor Augustine Sycamore in Kalos (gen 6). It's a nightmare to deal with for an unprepared trainer, a bit of foreshadowing from its appearance. Haha! </p>
+<p class=”body”>Roserade is a resilient grass-poison type with a 125 special attack. Roserade controls the tempo, attracts prey with its aroma, and ambushes it with spews of poison and grass attacks. Feisty!</p>
+<p class=”body”>Gastrodon is a unique case. Not the highest stats we’ve seen so far (475 base), but a water-ground typing has tyranny written all over it. Without a proper counter at play, Gastrodon will pounce your Pokemon to the exit of the battle arena.</p>
+<p class=”body”>My grandson keeps on telling me about this PWWE thing he saw on the TV, Pokemon World Wrestling Entertainment? I believe lucario would be a great addition to that. A natural fighter who strikes harder than the fear in their opponents eyes.</p>
+<p class=”body”>Milotic is excess goods at this point. A tanky Pokemon similar to snorlax but with the water typing. Hits harder than a truck. Fascinating as its predecessor is, it is one of the weakest Pokemon we’ve encountered!</p>
+<p class=”body”>The previous 5 Pokemon are phenomenal, but my dear Professor Rowan of Sinnoh has enlightened me of Garchomp, Cynthia’s iconic pseudo-legendary ace. “It flies at speeds equal to a jet fighter plane. It never allows its prey to escape.” This behemoth has a dragon-ground typing that dwarfs 99% of Pokemon it encounters. The ultimate challenge for any Pokemon trainer with hopes of becoming champion.</p>
+
+<p class=”body”><b>ULTIMATE POKEMON TEAM</b></p>
+<p class=”body”>SO YOU STILL WANT TO BATTLE THESE MONSTERS???? ARE YOU CR-CRAAAA-ZZZZYYY???? </p>
+<p class=”body”>People like you are the reason Gary never calls. You bring so much life and energy! Please visit me after you take on Cynthia, the Research Lab would love to hear more from you.</p>
+<p class=”body”>If Cynthia is to be beaten, it must not be by mistake. Theoretically any 6 Pokemon can prevail in a battle, but the path to success must be carved. </p>
+<p class=”body”>With all the research compiled together by the wonderful trainers in the Pokemon world and the crew of Pokemon Professors at hand (including Professor Ford!), we present our interpretation of the team most capable of defeating Cynthia. In other words: THE ULTIMATE POKEMON TEAM.</p>
+
+<img src="https://i.ibb.co/JwN2DG9y/Professor-Oak-s-Ultimate-Pokemon-Team.png" width="1000">
+
+<img src="https://i.ibb.co/gbbX5ySc/aijyi-ultimate-pokemon-team-base-stat-totals.png" width="1000">
+
+	<p class=”body”>WOW! GARY, grandson are you seeing this?! Wha-huh-uh, hey Gary do you happen to know what a “voicemail” is? Everytime I try to call it says I got your voicemail. Anyways, I’ll tell you all about the ultimate Pokemon team versus Cynthia!</p>
+	<p class=”body”>The main point of attack is with Gyarados. Remember that water-flying Pokemon I showed you in the lab that could destroy entire cities in a rage? The one that looks like a water dragon, it has superstar levels of attack (125) and base stats (540). More importantly, its 100 special defense makes it solid defensively to Spiritomb’s (Cynthia’s starter) attacks. Let Gyarados charge up stats with special moves, survive blows from Spiritomb, and then fully obliterate all 6 Pokemon with your fake dragon.</p>
+	<p class=”body”>With this strategy, all other Pokemon are often luxuries of the situation. But if this gyarados method backfires, we want to be as prepared as we can be.</p>
+	<p class=”body”>Weavile boasts a 125 speed stat, outspeeding every single one of Cynthia’s Pokemon. Its lucrative dark-ice typing, 120 attack, and powerful ice type moves will turn the opposing Garchomp into a relic of time, as it is 4x weak to ice type moves (2x from dragon and 2x from ground). Undoubtedly the safest bet for eliminating the largest threat in the battle and sufficing against the rest.</p>
+	<p class=”body”>The grass-dark type Meowscarca, considered the Magician Pokemon, sets off bombs before its foes realize what’s going on. This is only possible with a blistering 123 speed stat that takes quick work of the opposing Gastrodon (4x weakness) and Milotic (2x weakness).</p>
+	<p class=”body”>Azumarill, the Aqua Rabbit Pokemon, is more commonly remembered for beauty pageants rather than high level competitive play. Gary you must remember all the posters you had in your room! Regardless, its strengths are suited for no occasion better than this. As a fairy type, it is another rare kryptonite of Garchomps, and serves exceptionally well as a last resort option for the spiritomb as well.</p>
+	<p class=”body”>Skeledirge faces off against Lucario as an immovable object. Its fire-ghost typing completely nullifies any opportunity for Lucario to deal damage to us, while a simple fire move like Flamethrower would burn its enemies to a crisp with flames of over 5,400 degrees Fahrenheit according to one of my colleagues! Feisty!</p>
+	<p class=”body”>To round off the team, no other serves a greater role than the noble Corviknight. 100% resistant of Garchomps demoralizing ground type moves, a tempo/battle manager, and an absolute squire of a Pokemon with a hand to play in each matchup versus Cynthia. Goes to show you that base stats are not everythi—</p>
+	<p class=”body”>WHA-AAAA??? My communication device is rampaging! Did anyone hear that??? …</p>
+	<p class=”body”>I suppose nobody heard that but you young trainer. I hope this information serves you well on your quest to become the best Pokemon trainer you can be. </p>
+<p class=”body”>And don't tell Cynthia!</p>
+<p class=”body”>When I first started doing my research, my horizons went only so far. Kanto was all I knew, the world I loved and still can't get enough of. But there is always more to be learned. More to be researched. I am a Professor after all! </p>
+<p class=”body”>This team may be considered “ultimate” today, but in some time from now kiddo, who knows what is to come. No champion remains champion forever! How do you think the champion got to where they are now? How did the Elite 4 become elite? </p>
+<p class=”body”>What happens if more Pokemon are discovered in the future? There are a number of Pokemon not yet identified, but urban legends of them exist. There was a trainer by the name of Ash who spotted a mysterious, unidentified Pokemon gliding across the sky. I’ve met new Professors more than a few times where we share our research and Pokedex’s and learn about Pokemon we were previously unaware about. </p>
+<p class=”body”>That is the beauty of the Pokemon World, the beauty of this life that we live, and why I chose to become a Pokemon Professor in the first place! Learning about the ultimate Pokemon team is exciting but the excitement only lasts for so long. Everything else that goes into it is the ever-exciting part. Understanding how Pokemon function, where they come from, how they live together in unison with other Pokemon and humans like you and I. I hope you learned something from your good old Professor and venture onward in your journeys! Haha! </p>
+
+
+
+</div>
+
+
+
+<img src="https://i.ibb.co/WNqmnVXR/professor-oak-wave-hello-crop.webp" width="1000">
+
+
+<footer>
+Hope you enjoyed it! - Dorian Botier ... I mean Professor Oak... Haha!
+</footer>
+
+
+</div>
+
+
+</body>
+</html>
